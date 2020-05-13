@@ -1,1 +1,2 @@
 sample text
+fruit list: apple, grape, plum, peach
