@@ -19,6 +19,7 @@ public class MyCalculatorApp {
 		
 		JOptionPane.showMessageDialog(null, a + " + " + b + " is equal to " + (a+b));
 
+		//Test successful!
 	}
 
 }
